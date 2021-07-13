@@ -1,5 +1,5 @@
 # video_chat
-#Please consider the drive link for the code
+#Please consider the drive link for the code.
 Drive link for the code : https://drive.google.com/drive/folders/1bvNCUtHBAKRdIdukXpqQNLiJN81wM9W8?usp=sharing
 1) This is an Android mobile application which has an User Authentication feature, user can create account by email address and some password and login into app.
 2) User can create some random code to create meeting and join , also user may join in already created meeting by sharing the code by host.
